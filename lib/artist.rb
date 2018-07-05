@@ -1,7 +1,7 @@
 class Artist
   attr_accessor :name
 
-  def initiate
+  def initialize
   @name=name
 end
 end 
